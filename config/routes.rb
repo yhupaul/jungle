@@ -4,6 +4,7 @@ Rails.application.routes.draw do
 
   resources :products, only: [:index, :show]
   resources :categories, only: [:show]
+  resources :about, only: [:index]
 
   resource :cart, only: [:show] do
     post   :add_item
@@ -12,7 +13,7 @@ Rails.application.routes.draw do
 
   resources :orders, only: [:create, :show]
   resources :categories, only: [:index, :new, :create]
-  
+
   namespace :admin do
     root to: 'dashboard#show'
     resources :products, except: [:edit, :update, :show]
