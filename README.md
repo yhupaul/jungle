@@ -5,7 +5,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 #Screenshots
 ## Homepage
 > Homepage showing all list of products. Users can register, login and logout.
-!["Home"] (https://github.com/yhupaul/jungle/blob/master/docs/home.png)
+!["Home"](https://github.com/yhupaul/jungle/blob/master/docs/home.png)
 
 ## Add to Cart
 > Logged in users can add products to the cart.
