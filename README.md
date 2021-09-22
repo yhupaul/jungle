@@ -2,6 +2,20 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+#Screenshots
+## Homepage
+> Homepage showing all list of products. Users can register, login and logout.
+!["Home"] ()
+
+## Add to Cart
+> Logged in users can add products to the cart.
+!["AddCart"]()
+
+## Submit Order
+> Users can purchase the order as well as the order details.
+!["Order"]()
+
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
