@@ -5,15 +5,15 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 #Screenshots
 ## Homepage
 > Homepage showing all list of products. Users can register, login and logout.
-!["Home"] ()
+!["Home"] (https://github.com/yhupaul/jungle/blob/master/docs/home.png)
 
 ## Add to Cart
 > Logged in users can add products to the cart.
-!["AddCart"]()
+!["AddCart"](https://github.com/yhupaul/jungle/blob/master/docs/my%20cart.png)
 
 ## Submit Order
 > Users can purchase the order as well as the order details.
-!["Order"]()
+!["Order"](https://github.com/yhupaul/jungle/blob/master/docs/summit%20order.png)
 
 
 ## Additional Steps for Apple M1 Machines
